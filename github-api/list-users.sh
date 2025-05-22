@@ -1,9 +1,9 @@
-######################################################################
-# About: list the logins who have the access to the github repository.
+##################################################################################################
+# About: This shell script will list the login names who have the access to the github repository.
 # DATE : 22 MAY 2025
 # AUTHOR : RAJESH KUMAR
-# 
-######################################################################
+# version : v1
+##################################################################################################
 
 #!/bin/bash
 
